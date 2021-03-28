@@ -12,5 +12,5 @@ Simple example of recieving messages in one AMQP queue and send them to another 
 Pendulum model from 'simplependulum.fmu' is simulated with 500ms steps.
 Simulation data ('x' and 'y') is sens to Redis TimeSeries and them visualize in Grafana
 
-![pendulum x and y](pics\pendulum_grafana.jpg)
+![pendulum x and y](pics/pendulum_grafana.jpg)
 
